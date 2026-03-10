@@ -5,7 +5,7 @@
 ![Sensor Overview](overview_all_steps.png)
 
 ### Animation
-! [Animation](sensor_animation.gif)
+![Animation](sensor_animation.gif)
 
 ## Project Concept
 This project simulates a 20x20 smart textile sensor grid to explore temperature and pressure distribution across 
